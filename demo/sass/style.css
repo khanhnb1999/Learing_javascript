@@ -1,0 +1,21 @@
+.btn {
+  outline: none;
+  border: none;
+  width: 200px;
+  height: 50px;
+  color: white;
+}
+
+.btn_success {
+  background-color: red;
+}
+
+.btn_danger {
+  background-color: #42d11e;
+}
+
+.btn_primary {
+  background-color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,23 @@
+$background: rgb(202, 236, 202);
+$font-text: 20px;
+$color-text: rgb(25, 0, 255);
+
+.category {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  height: 50px;
+  background-color: $background;
+  padding: 20px;
+  &__content {
+    font-size: $font-text;
+    color: $color-text;
+  }
+  &__icon {
+    font-size: 30px;
+    &--time {
+      color: rgb(245, 1, 1);
+    }
+  }
+}

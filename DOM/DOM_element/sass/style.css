@@ -1,0 +1,21 @@
+.category {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  height: 50px;
+  background-color: #caecca;
+  padding: 20px;
+}
+.category__content {
+  font-size: 20px;
+  color: #1900ff;
+}
+.category__icon {
+  font-size: 30px;
+}
+.category__icon--time {
+  color: #f50101;
+}
+
+/*# sourceMappingURL=style.css.map */
