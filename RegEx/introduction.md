@@ -1,6 +1,6 @@
 1)  RegEx(Regular Expression - Biểu thức chính quy)
-        +) Tập hợp những quy tắc, dựa vào quy tắc đó để viết ra những biểu thức để so khớp các chuỗi với nhau.
-        +) Thư viện nâng cao để xử lí chuỗi
++) Tập hợp những quy tắc, dựa vào quy tắc đó để viết ra những biểu thức để so khớp các chuỗi với nhau.
++) Thư viện nâng cao để xử lí chuỗi
 
 2)  Cú pháp
         Cú pháp:  /pattern/modifiers
