@@ -1,8 +1,8 @@
-+)  RegEx(Regular Expression - Biểu thức chính quy)
-        - Tập hợp những quy tắc, dựa vào quy tắc đó để viết ra những biểu thức để so khớp các chuỗi với nhau.
-        - Thư viện nâng cao để xử lí chuỗi
+1)  RegEx(Regular Expression - Biểu thức chính quy)
+        +) Tập hợp những quy tắc, dựa vào quy tắc đó để viết ra những biểu thức để so khớp các chuỗi với nhau.
+        +) Thư viện nâng cao để xử lí chuỗi
 
-+)  Cú pháp
+2)  Cú pháp
         Cú pháp:  /pattern/modifiers
         - pattern là chuỗi Regular Expression
         - modifiers là thông số cấu hình cho chuỗi pattern:
@@ -32,4 +32,3 @@
         {n,m}: Khớp với kí tự hoặc biểu thức xuất hiện đằng trước nó ít nhất là n lần và nhiều nhất là m lần.
         {n}: Khớp với ký tự hoặc biểu thức xuất hiện đằng trước nó là n lần.
         {n,} : Khớp với ký tự hoặc biểu thức xuất hiện đằng trước nó ít nhất là n lần.
-        
